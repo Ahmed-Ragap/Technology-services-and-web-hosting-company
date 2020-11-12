@@ -1,2 +1,2 @@
 Project__C Demo
-https://project-e-demo.netlify.app
+https://project-c-demo.netlify.app
